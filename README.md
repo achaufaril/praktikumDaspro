@@ -7,7 +7,7 @@ Absen : 1
 
 Hasil Uji Studi Kasus 2 oleh akhdan 
 | No | Jenis | Dokumen | Juara/Dana | Output       | Sesuai? |
-|	 |	     |	       |	        |	           |	     |
+|----|-----|-------|------------|--------------|---------|
 | 1  | 1	 | 3	   | 2	        | tidak Berhak | Ya	     |
 | 2  | 3	 | 4	   | 1	        | Berhak       | Ya	     |
 | 3  | 2	 | 1	   | 3	        | tidak Berhak | Ya	     |
