@@ -6,7 +6,7 @@ public class studikasus1_01 {
     public static void main(String[] args) {
         Scanner aufaril = new Scanner(System.in);
 
-        int hargaPerCup = 16000;
+        int hargaPerCup = 18000;
         int jumlahCup, uangBayar;
         int totalHarga, diskon, totalBayar;
         int kembalian, kurang;
@@ -19,8 +19,8 @@ public class studikasus1_01 {
         totalHarga = jumlahCup * hargaPerCup;
         diskon = 0;
 
-        if (totalHarga >= 90000) {
-            diskon = totalHarga * 6 / 100;
+        if (totalHarga >= 100000) {
+            diskon = totalHarga * 10 / 100;
         } else {
             diskon = 0;
         }
